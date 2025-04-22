@@ -9,6 +9,6 @@ CC = gcc
 clean:
 	del /Q *.exe 2>nul
 	
-#make hello.c	Compiles hello.c → hello.exe
-#make prime.c	Compiles prime.c → prime.exe
+#make hello	Compiles hello.c → hello.exe
+#make prime	Compiles prime.c → prime.exe
 #make clean	Deletes all .exe files
