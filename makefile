@@ -10,5 +10,4 @@ clean:
 	del /Q *.exe 2>nul
 	
 #make hello	Compiles hello.c → hello.exe
-#make prime	Compiles prime.c → prime.exe
 #make clean	Deletes all .exe files
